@@ -1,2 +1,2 @@
-# Desafios-Cursos-CFB-Cursos-Javascript = Jogo da Forca
+Jogo da forca - feito html, css e javascript
 

@@ -7,6 +7,8 @@
 <h3>Mobile</h3>
 <img src="image/mobile.png">
 <h2>⚠️ Licença</h2>
-<h3>Esse projeto esta sobre a licença <a href='LICENSE'>MIT</a>.</h3>
-<h3>Feito por <a href="https://github.com/Rodrigo-Souza-DEV">Rodrigo Souza</a>.</h3>
+<h4>Esse projeto esta sobre a licença <a href='LICENSE'>MIT</a>.</h4>
+<h4>Feito por <a href="https://github.com/Rodrigo-Souza-DEV">Rodrigo Souza</a>.</h4>
+<hr>
+<h3>Acesse o Jogo da forca <a href="https://rodrigo-souza-dev.github.io/Jogo-da-Forca/">Aqui.</a></h3>
 
